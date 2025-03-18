@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am working building a skeleton frame for a full stack web development project that provides responsiveness and interactivity.  To do that, I am going through the Codecademy's "Full Stack Web Engineer" course.
+
+![IMG_2250 tom kissing a catfish](https://github.com/user-attachments/assets/25ca8329-6ccd-41d7-8e18-6a6e73bd5cff)
+_Tom kissing a catfish_
+
+![IMG_2249 tom smiling because he caught a fish](https://github.com/user-attachments/assets/8ac3791b-9d6e-4cb1-a776-ca5869150c0e)
+_Tom smiling at catching a fish, even a little catfish!_
+
