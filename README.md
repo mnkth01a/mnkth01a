@@ -23,6 +23,9 @@ I have worked as an Industrial Automation programmer/Engineer for over 40 years.
 
 - I am working on building a skeleton frame for a full stack web development project that provides responsiveness and interactivity.
   - To do that, I am going through Codecademy's "Full Stack Web Engineer" course.
+  - You can visit the [_Template_ repository here](https://github.com/mnkth01a/templates.git) to watch the progress.
+ 
+- Next project here!
 
 
 <!-- ![IMG_2250 tom kissing a catfish](https://github.com/user-attachments/assets/25ca8329-6ccd-41d7-8e18-6a6e73bd5cff)
