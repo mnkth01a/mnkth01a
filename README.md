@@ -27,7 +27,6 @@ I have worked as an Industrial Automation programmer/Engineer for over 40 years.
  
 - Next project here!
 
-
 <!-- ![IMG_2250 tom kissing a catfish](https://github.com/user-attachments/assets/25ca8329-6ccd-41d7-8e18-6a6e73bd5cff)
 ![IMG_2250 tom kissing a catfish](./IMG_2250.jpg)
 _Tom kissing a catfish_
