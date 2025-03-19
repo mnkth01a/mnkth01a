@@ -1,4 +1,4 @@
-## Hi there 👋
+# Tom Hughes 👋
 
 <!--
 **mnkth01a/mnkth01a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am working building a skeleton frame for a full stack web development project that provides responsiveness and interactivity.  To do that, I am going through the Codecademy's "Full Stack Web Engineer" course.
+
+## A Little History
+
+I have worked as an Industrial Automation programmer/Engineer for over 40 years.  When I wasn't programming PLC's or industrial robots, I would write programs in C++, Python, and MicroPython for Arduinos and RaspBerry Pi's.
+
+## Current Projects
+
+- I am working on building a skeleton frame for a full stack web development project that provides responsiveness and interactivity.
+  - To do that, I am going through Codecademy's "Full Stack Web Engineer" course.
+
 
 <!-- ![IMG_2250 tom kissing a catfish](https://github.com/user-attachments/assets/25ca8329-6ccd-41d7-8e18-6a6e73bd5cff)
 ![IMG_2250 tom kissing a catfish](./IMG_2250.jpg)
