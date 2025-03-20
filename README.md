@@ -37,7 +37,7 @@ interactivity.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=mnkth01a&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph)
 
-👯 **Visitors Count**
+## 👯 Visitors Count
 
 ![Visitors Count](https://profile-counter.glitch.me/{mnkth01a}/count.svg)
 
