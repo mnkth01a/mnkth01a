@@ -1,6 +1,6 @@
 # Tom Hughes 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=32&duration=3000&pause=1000&color=C6FFF7&background=1C06FF&center=true&vCenter=true&width=820&height=60&lines=Welcome+to+the+mnkth01a+repository!;Feel+free+to+checkout+my+repositories!;I+hope+you+can+find+somethng+you+can+use!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=32&duration=4000&pause=1500&color=C6FFF7&background=1C06FF&center=true&vCenter=true&width=820&height=60&lines=Welcome+to+the+mnkth01a+repository!;Feel+free+to+checkout+my+repositories!;I+hope+you+can+find+somethng+you+can+use!)](https://git.io/typing-svg)
 
 <!--
 **mnkth01a/mnkth01a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
