@@ -1,5 +1,7 @@
 # Tom Hughes 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=24&pause=1000&color=C6FFF7&background=1C06FF&center=true&vCenter=true&width=460&height=60&lines=Welcome+to+the+mnkth01a+repository!;Feel+free+to+checkout+my+repositories!;I+hope+you+can+find+somethng+you+can+use!)](https://git.io/typing-svg)
+
 <!--
 **mnkth01a/mnkth01a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,26 +31,13 @@ interactivity.
 
 - _Next project here!_
 
-<details open>
-  <summary align="center">
-    <h2> My Profile Statistics </h2>
-  </summary>
-  <div align="center">
-    <img height="192px" alt="mnkth01a's Top Languages GitHub"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnkth01a&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"
-      weight=41% height="192px" />
-    <img height="192px"
-      src="https://github-readme-stats.vercel.app/api?username=mnkth01a&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true" />
-  </div>
-  <div align="center">
-    <a href="https://github.com/mnkth01a/mnkth01a"><img alt="mnkth01a's Activity Graph"
-        src="https://github-readme-activity-graph.vercel.app/graph/?username=mnkth01a&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
-  </div>
+## My Profile Statistics
 
-  <div align="center">
-    <br>
-    <p align="centre"><b>Visitors Count</b></p>
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mnkth01a}/count.svg" /></p>
-  </div>
-  <br>
-</details>
+![mnkth01a's Top Languages GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=mnkth01a&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=mnkth01a&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph)
+
+**Visitors Count**
+
+![Visitors Count](https://profile-counter.glitch.me/{mnkth01a}/count.svg)
+

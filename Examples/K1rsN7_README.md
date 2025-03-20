@@ -1,30 +1,37 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=header" />
+
 <div align="center">
   <a href="https://git.io/typing-svg"><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Kirill"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile!;Hello+there!;My+name+is+Kirill"
       alt="Typing SVG" /></a>
 </div>
 <br>
+
 <details open>
   <summary align="center">
     <h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2>
   </summary>
-  <p align="center"> I am an intern Data Scientist <img src="./Image/cat-coder.gif" width="30px"> from Nizhny Novgorod.
+  <p align="center"> I am an intern Data Scientist <img src="./Image/cat-coder.gif" width="30px"> from Nizhny
+    Novgorod.
   </p>
   <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45% />
   <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" /> A little more detail: </h3>
   <ul>
     <li><a><img alt="GIF" src="./Image/books.gif" width="30px" />&nbsp; I am a college student, studying to be a
         programmer.</a></li><br>
-    <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp; I actively participate in IT events.</a></li>
+    <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp; I actively participate in IT events.</a>
+    </li>
     <br>
-    <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I am actively involved in sports.</a></li>
+    <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I am actively involved in sports.</a>
+    </li>
     <br>
-    <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li>
+    <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a>
+    </li>
     <br>
   </ul>
   <br>
 </details>
+
 <details open>
   <summary align="center">
     <h2><img alt="GIF" src="./Image//handshake2.gif" width="25px"> Social Media </h2>
@@ -48,12 +55,14 @@
   </div>
   <br>
 </details>
+
 <details open>
   <summary align="center">
     <h2><img alt="GIF"
         src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0Nzl0NXNvanRtZ2RhZ3QwdTRldG9haWdqMmE5eGQ5djZnM2w4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rH4STTV6GoiHT004rI/giphy.gif"
         width="25px"> Favorite languages and Tools </h2>
   </summary>
+
   <div align="center">
     <p></p>
     <a href="https://www.python.org/" target="_blank"> <img alt="Python" height="42px"
@@ -87,10 +96,12 @@
 
   </div>
 </details>
+
 <details>
   <summary align="center">
     <h2><img alt="GIF" src="./Image/laptop_code.gif" width="25px">Other Languages and Tools </h2>
   </summary>
+
   <div align="center">
     <p></p>
     <a href="https://www.java.com/en/" target="_blank"> <img alt="Java" height="42px"
@@ -129,10 +140,12 @@
     <p></p>
   </div>
 </details>
+
 <details open>
   <summary align="center">
     <h2><img alt="GIF" src="./Image/trophy.gif" width="25px"> My various diplomas, certificates </h2>
   </summary>
+
   <div align="center">
     <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_17.png" target="_blank"> <img height="150px"
         src="./Image/diploma_17.png" /></a>
@@ -177,10 +190,12 @@
   </div>
   <br>
 </details>
+
 <details open>
   <summary align="center">
     <h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2>
   </summary>
+
   <div align="center">
     <img height="192px" alt="K1rsN7's Top Languages GitHub"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1rsN7&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"
@@ -189,6 +204,7 @@
       src="https://github-readme-stats.vercel.app/api?username=K1rsN7&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true" />
     <!--       <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
   </div>
+
   <div align="center">
     <img
       src="https://github-readme-stats.vercel.app/api/wakatime?username=K1rsN7&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
@@ -204,6 +220,7 @@
   </div>
   <br>
 </details>
+
 <div align="center">
   <br>
   <a href="https://git.io/typing-svg"><img
