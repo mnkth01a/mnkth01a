@@ -35,7 +35,7 @@ industrial robots, I would write programs in C++, Python, and MicroPython for Ar
 - [_MultiFunction Shield_](https://github.com/mnkth01a/MultiFunction_Shield.git) is one that I built for the Arduino Multifunction shield. It has issues that I found listed in the repository's README.md file.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,mongodb,firebase,md,git,github,vscode,python,cpp,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,python,cpp,git,github,kubernetes,docker,tailwind,js,react,nodejs,mongodb,firebase,md,stackoverflow&perline=13)](#)
 
 ## 😄 My Profile Statistics
 
