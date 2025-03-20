@@ -24,12 +24,13 @@ industrial robots, I would write programs in C++, Python, and MicroPython for Ar
 
 ## 🔭 Current Projects
 
-- I am working on building a skeleton frame for a full stack web development project that provides responsiveness and
-interactivity.
-- To do that, I am going through Codecademy's "Full Stack Web Engineer" course, and applying what I learn.
-- You can visit the [_Template_ repository here](https://github.com/mnkth01a/templates.git) to watch the progress.
+- [_Template_ repository](https://github.com/mnkth01a/templates.git) is a project I'm building from scratch into a full stack website framework. It will be a bare bones template that can be used in containers or other frameworks to build responsive and interactive websites. Come back every now and then to watch the progress.
 
-- _Next project here!_
+- [_My Python Examples_](https://github.com/mnkth01a/mypython_examples.git) is repository of Python code snippets.  Feel free to check it out and copy the snippets into your own python files.
+
+- [_Header Dev_](https://github.com/mnkth01a/header_dev.git) is for use with the A4988 Stepper Motor driver module. It also contains a header for the [Sunfounder](https://www.sunfounder.com/) I<sup>2</sup>C LCD2004 Module.  You can read more about it in the repository's [README.md](https://github.com/mnkth01a/header_dev.git/) file.
+
+- [MultiFunction Shield](https://github.com/mnkth01a/MultiFunction_Shield.git) is one that I built for the Arduino Multifunction shield. It has issues that I found listed in the repository's [README.md](https://github.com/mnkth01a/MultiFunction_Shield.git/) file.
 
 ## 😄 My Profile Statistics
 
