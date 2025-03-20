@@ -25,13 +25,4 @@ I have worked as an Industrial Automation programmer/Engineer for over 40 years.
   - To do that, I am going through Codecademy's "Full Stack Web Engineer" course, and applying what I learn.
   - You can visit the [_Template_ repository here](https://github.com/mnkth01a/templates.git) to watch the progress.
  
-- Next project here!
-
-<!-- ![IMG_2250 tom kissing a catfish](https://github.com/user-attachments/assets/25ca8329-6ccd-41d7-8e18-6a6e73bd5cff)
-![IMG_2250 tom kissing a catfish](./IMG_2250.jpg)
-_Tom kissing a catfish_
-
-<!-- ![IMG_2249 tom smiling because he caught a fish](https://github.com/user-attachments/assets/8ac3791b-9d6e-4cb1-a776-ca5869150c0e)
-![IMG_2249 tom smiling because he caught a fish](./IMG_2249.jpg)
-_Tom smiling at catching a fish, even a little catfish!_
--->
+- _Next project here!_
