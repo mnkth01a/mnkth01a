@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## A Little History
+## ✨ A Little History ✨
 
-I have worked as an Industrial Automation programmer/Engineer for over 40 years. When I wasn't programming PLC's or
+- I have worked as an Industrial Automation programmer/Engineer for over 40 years. When I wasn't programming PLC's or
 industrial robots, I would write programs in C++, Python, and MicroPython for Arduinos and RaspBerry Pi's.
 
-## Current Projects
+## 🔭 Current Projects
 
 - I am working on building a skeleton frame for a full stack web development project that provides responsiveness and
 interactivity.
@@ -31,13 +31,13 @@ interactivity.
 
 - _Next project here!_
 
-## My Profile Statistics
+## 😄 My Profile Statistics
 
 ![mnkth01a's Top Languages GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=mnkth01a&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=mnkth01a&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph)
 
-**Visitors Count**
+👯 **Visitors Count**
 
 ![Visitors Count](https://profile-counter.glitch.me/{mnkth01a}/count.svg)
 
