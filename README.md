@@ -1,9 +1,3 @@
-![Header Image](https://capsule-render.vercel.app/api?type=waving&height=100%&color=84C2C0&height=70&section=header)
-
-# Tom Hughes ( _aka: mnkth01a_ ) 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=32&duration=4000&pause=1500&color=C6FFF7&background=1C06FF&center=true&vCenter=true&width=820&height=60&lines=Welcome+to+the+mnkth01a+repository!;Feel+free+to+checkout+my+repositories!;I+hope+you+can+find+somethng+you+can+use!)](https://git.io/typing-svg)
-
 <!--
 **mnkth01a/mnkth01a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Header Image](https://capsule-render.vercel.app/api?type=waving&height=100%&color=00bfff&height=60&section=header)
+
+# Tom Hughes ( _aka: mnkth01a_ ) 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=32&duration=4000&pause=1500&color=C6FFF7&background=1C06FF&center=true&vCenter=true&width=820&height=60&lines=Welcome+to+the+mnkth01a+repository!;Feel+free+to+checkout+my+repositories!;I+hope+you+can+find+somethng+you+can+use!)](https://git.io/typing-svg)
 
 ## ✨ A Little History ✨
 
@@ -49,4 +49,4 @@ industrial robots, I would write programs in C++, Python, and MicroPython for Ar
 
 ![Visitors Count](https://profile-counter.glitch.me/{mnkth01a}/count.svg)
 
-![Footer Image](https://capsule-render.vercel.app/api?type=waving&height=100%&color=84C2C0&height=70&section=footer)
+![Footer Image](https://capsule-render.vercel.app/api?type=waving&height=100%&color=00bfff&height=60&section=footer)
