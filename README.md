@@ -1,3 +1,5 @@
+![Header Image](https://capsule-render.vercel.app/api?type=waving&height=100%&color=84C2C0&height=70&section=header)
+
 # Tom Hughes ( _aka: mnkth01a_ ) 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=32&duration=4000&pause=1500&color=C6FFF7&background=1C06FF&center=true&vCenter=true&width=820&height=60&lines=Welcome+to+the+mnkth01a+repository!;Feel+free+to+checkout+my+repositories!;I+hope+you+can+find+somethng+you+can+use!)](https://git.io/typing-svg)
@@ -30,11 +32,11 @@ industrial robots, I would write programs in C++, Python, and MicroPython for Ar
 
 - [_My Python Examples_](https://github.com/mnkth01a/mypython_examples.git) is repository of Python code snippets.  Feel free to check it out and copy the snippets into your own python files.
 
-- [_Header Dev_](https://github.com/mnkth01a/header_dev.git) is for use with the A4988 Stepper Motor driver module. It also contains a header for the [Sunfounder](https://www.sunfounder.com/) I<sup>2</sup>C LCD2004 Module.  You can read more about it in the repository's README.md file.
+- [_Header Dev_](https://github.com/mnkth01a/header_dev.git) is for use with the A4988 Stepper Motor driver module. It also contains a header for the [Sunfounder](https://www.sunfounder.com/) I²C LCD2004 Module.  You can read more about it in the repository's README.md file.
 
 - [_MultiFunction Shield_](https://github.com/mnkth01a/MultiFunction_Shield.git) is one that I built for the Arduino Multifunction shield. It has issues that I found listed in the repository's README.md file.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+## 🛠️ **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,python,cpp,html,css,git,github,arduino,mysql,kubernetes,docker,tailwind,js,react,nodejs,mongodb,firebase,md,ruby,stackoverflow&perline=13)](#)
 
 ## 😄 My Profile Statistics
@@ -46,3 +48,5 @@ industrial robots, I would write programs in C++, Python, and MicroPython for Ar
 ## 👯 Visitors Count
 
 ![Visitors Count](https://profile-counter.glitch.me/{mnkth01a}/count.svg)
+
+![Footer Image](https://capsule-render.vercel.app/api?type=waving&height=100%&color=84C2C0&height=70&section=footer)
