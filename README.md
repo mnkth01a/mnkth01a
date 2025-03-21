@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header Image](https://capsule-render.vercel.app/api?type=waving&height=100%&color=6b8e23&height=60&section=header)
+![Header Image](https://capsule-render.vercel.app/api?type=waving&height=100%&color=1e90ff&height=50&section=header)
 
 # Tom Hughes ( _aka: mnkth01a_ ) 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=32&duration=4000&pause=1500&color=C6FFF7&background=1C06FF&center=true&vCenter=true&width=820&height=60&lines=Welcome+to+the+mnkth01a+repository!;Feel+free+to+checkout+my+repositories!;I+hope+you+can+find+somethng+you+can+use!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=32&duration=4000&pause=1500&color=f8f8ff&background=1e90ff&center=true&vCenter=true&width=820&height=60&lines=Welcome+to+the+mnkth01a+repository!;Feel+free+to+checkout+my+repositories!;I+hope+you+can+find+somethng+you+can+use!)](https://git.io/typing-svg)
 
 ## ✨ A Little History ✨
 
@@ -37,7 +37,8 @@ industrial robots, I would write programs in C++, Python, and MicroPython for Ar
 - [_MultiFunction Shield_](https://github.com/mnkth01a/MultiFunction_Shield.git) is one that I built for the Arduino Multifunction shield. It has issues that I found listed in the repository's README.md file.
 
 ## 🛠️ **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,python,cpp,html,css,git,github,arduino,mysql,kubernetes,docker,tailwind,js,react,nodejs,mongodb,firebase,md,ruby,stackoverflow&perline=13)](#)
+
+![My Skills](https://skillicons.dev/icons?i=linux,vscode,python,cpp,html,css,git,github,arduino,mysql,kubernetes,docker,tailwind,js,react,nodejs,mongodb,firebase,md,ruby,stackoverflow&perline=13)
 
 ## 😄 My Profile Statistics
 
@@ -49,4 +50,4 @@ industrial robots, I would write programs in C++, Python, and MicroPython for Ar
 
 ![Visitors Count](https://profile-counter.glitch.me/{mnkth01a}/count.svg)
 
-![Footer Image](https://capsule-render.vercel.app/api?type=waving&height=100%&color=6b8e23&height=60&section=footer)
+![Footer Image](https://capsule-render.vercel.app/api?type=waving&height=100%&color=1e90ff&height=50&section=footer)
