@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Tom Hughes ( _aka: mnkth01a_ ) 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=32&duration=4000&pause=1500&color=f8f8ff&background=1e90ff&center=true&vCenter=true&width=820&height=50&lines=Welcome+to+the+mnkth01a+repository!;Feel+free+to+checkout+my+repositories!;I+hope+you+can+find+somethng+you+can+use!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=32&duration=4000&pause=1500&color=f8f8ff&center=true&vCenter=true&width=820&height=50&lines=Welcome+to+the+mnkth01a+repository!;Feel+free+to+checkout+my+repositories!;I+hope+you+can+find+somethng+you+can+use!)](https://git.io/typing-svg)
 
 ## ✨ A Little History ✨
 
