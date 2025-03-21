@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header Image](https://capsule-render.vercel.app/api?type=waving&height=100%&color=00bfff&height=60&section=header)
+![Header Image](https://capsule-render.vercel.app/api?type=waving&height=100%&color=6b8e23&height=60&section=header)
 
 # Tom Hughes ( _aka: mnkth01a_ ) 👋
 
@@ -49,4 +49,4 @@ industrial robots, I would write programs in C++, Python, and MicroPython for Ar
 
 ![Visitors Count](https://profile-counter.glitch.me/{mnkth01a}/count.svg)
 
-![Footer Image](https://capsule-render.vercel.app/api?type=waving&height=100%&color=00bfff&height=60&section=footer)
+![Footer Image](https://capsule-render.vercel.app/api?type=waving&height=100%&color=6b8e23&height=60&section=footer)
