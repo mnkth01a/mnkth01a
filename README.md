@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 - I have worked as an Industrial Automation programmer/Engineer for over 40 years. When I wasn't programming PLC's or
 industrial robots, I would write programs in C++, Python, and MicroPython for Arduinos and RaspBerry Pi's.
 
-- For several years, more than I'm willing to say, I've been working on Linux, GitHub, Docker, DJango, and React projects for my own learning experience. Nothing to really write home about, but fun for me. 🏋️‍♂️  
+- For several years, more than I'm willing to say, I've been working on Linux, GitHub, Docker, DJango, and React projects for my own learning experience. Nothing to really write home about, but fun for me. 🏋️‍♂️
+
+> For a more detailed history see my account on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 ## 🔭 Current Projects
 
