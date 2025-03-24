@@ -38,7 +38,7 @@ industrial robots, I would write programs in C++, Python, and MicroPython for Ar
 
 ## 🛠️ **Languages and Tools:**  
 
-![My Skills](https://skillicons.dev/icons?i=linux,vscode,python,cpp,html,css,git,github,arduino,mysql,kubernetes,docker,tailwind,js,react,nodejs,mongodb,firebase,md,ruby,stackoverflow&perline=13)
+![My Skills](https://skillicons.dev/icons?i=linux,bash,powershell,vscode,python,cpp,html,css,git,github,arduino,mysql,kubernetes,docker,tailwind,js,react,nodejs,mongodb,firebase,md,ruby,stackoverflow&perline=13)
 
 ## 😄 My Profile Statistics
 
